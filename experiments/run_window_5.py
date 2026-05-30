@@ -231,5 +231,4 @@ if __name__ == "__main__":
     axes[2].grid(True, alpha=0.3)
     
     plt.tight_layout()
-    plt.savefig('../results/window_5_distribution.png', dpi=150)
     plt.show()
