@@ -37,6 +37,7 @@
     ├── s&p500.csv
     ├── djia.csv
     └── nasdaq.csv
+```
 
 Базовая симуляция (50 Noise / 20 Chartists / 30 Fundamentalists)
 
