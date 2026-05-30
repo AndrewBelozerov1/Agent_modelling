@@ -23,7 +23,6 @@ def calculate_metrics(data, name):
     print(f"Энтропия Колмогорова-Синая: {kse:.6f} бит/шаг")
 
 if __name__ == "__main__":
-    # Загрузка данных (убедитесь, что файлы есть в папке ../data/)
     data_dir = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'data')
     
     rts = pd.read_csv(os.path.join(data_dir, 'ртс.csv'))
