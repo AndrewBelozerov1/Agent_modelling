@@ -50,5 +50,4 @@ if __name__ == "__main__":
     plt.legend()
     
     plt.tight_layout()
-    plt.savefig('../results/baseline_wealth.png')
     plt.show()
