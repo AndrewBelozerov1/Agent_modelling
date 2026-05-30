@@ -16,5 +16,4 @@ if __name__ == "__main__":
     plt.grid()
     plt.legend()
     plt.title('Сценарий с Circuit Breaker (остановка торгов при движении >20%)')
-    plt.savefig('../results/circuit_breaker_price.png')
     plt.show()
