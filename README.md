@@ -15,7 +15,7 @@
 ```plain
 ├── README.md                             # Описание проекта, результаты, графики
 ├── requirements.txt                      # Зависимости (nolds, pandas, numpy, matplotlib)
-├── Multiagent_Modelling_notebook.ipynb   # Juoyter notebook
+├── Multiagent_Modelling_notebook.ipynb   # Jupyter notebook
 ├── src/
 │   ├── __init__.py
 │   ├── asset.py                     # Класс Asset (цена, дивиденды, остановка торгов)
