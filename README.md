@@ -12,8 +12,6 @@
 
 ## Структура проекта
 
-## Структура проекта
-
 ```plain
 ├── README.md                        # Описание проекта, результаты, графики
 ├── requirements.txt                 # Зависимости (nolds, pandas, numpy, matplotlib)
